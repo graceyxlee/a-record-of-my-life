@@ -11,4 +11,4 @@ iphone, lightroom
 
 lightroom preset: wong kar-wai film filter from jcreates
 
-<img src="https://drive.google.com/file/d/1wBer0Cdzpi0y0yrzF4q-8p2oT0R7aBLt/view">
+<img src="file:///Users/gracelee/Downloads/IMG_2461_Original.JPG">
