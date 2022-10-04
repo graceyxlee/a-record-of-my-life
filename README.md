@@ -9,9 +9,9 @@ pics i've taken over the past few years
 ***
 
 ## equipment
-iphone, lightroom
+iphone, adobe lightroom
 
-lightroom preset: <a href="https://www.dakolor.com/p/kuPA30sWY3bLje53">wong kar-wai film filter from jcreates </a>
+adobe lightroom preset: <a href="https://www.dakolor.com/p/kuPA30sWY3bLje53">wong kar-wai film filter from jcreates </a>
 
 ***
 
